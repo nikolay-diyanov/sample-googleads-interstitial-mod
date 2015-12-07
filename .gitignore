@@ -1,0 +1,5 @@
+*/bin
+*/obj
+*.user-settings.xml
+platforms/
+node_modules/
